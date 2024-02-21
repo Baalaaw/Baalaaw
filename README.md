@@ -1,4 +1,4 @@
-### My name is BalaMurugan 👋
+### My Name is BalaMurugan 😉
 
 <!--
 **Baalaaw/Baalaaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
